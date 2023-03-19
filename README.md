@@ -1,6 +1,6 @@
 # Hi, welcome to my profile!
 
-I am Alberto Martino, a first-year BSc Politics and Data Science Student at the [London School of Economics](www.lse.ac.uk).
+I am Alberto Martino, a first-year BSc Politics and Data Science Student at the [London School of Economics](https://www.lse.ac.uk/).
 
 ## About Me
 
