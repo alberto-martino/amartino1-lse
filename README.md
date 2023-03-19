@@ -1,12 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alberto-martino-65494720b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 # Hi, welcome to my profile!
 
 I am Alberto Martino, a first-year BSc Politics and Data Science Student at the [London School of Economics](lse.ac.uk).
