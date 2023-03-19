@@ -21,9 +21,13 @@ I am Alberto Martino, a first-year BSc Politics and Data Science Student at the 
 
 💸 For DS105L, my teammates and I are currently working on a project analysing the impact of **education** on salary and job in the United States of America: stay tuned for more!
 
+🐍 Currently trying to improve my Pyhton and Tableau skills. 
+
 ## What comes next?
 
 ❓ I would like to explore more the theme of Artificial Intelligence and ethics or the tensions in the [semiconductor market](https://www.bbc.com/news/business-63995570).
+
+🗄️ I would like to expand my knowledge on SQL and R soon. 
 
 🤝 If you would like to collaborate, drop me an email at [albertomartino.it@gmail.com](mailto:albertomartino.it@gmail.com)!
 
