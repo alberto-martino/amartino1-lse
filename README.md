@@ -12,7 +12,7 @@ I am Alberto Martino, a first-year BSc Politics and Data Science Student at the 
 
 💸 For DS105L, my teammates and I are currently working on a project analysing the impact of **education** on salary and job in the United States of America: stay tuned for more!
 
-🐍 Currently trying to improve my Pyhton and Tableau skills. 
+🐍 Currently trying to improve my Pyhton and Tableau skills. And my French as well (with poor results 😳)
 
 ## What comes next?
 
